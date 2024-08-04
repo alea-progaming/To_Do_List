@@ -129,7 +129,7 @@ footer {
   bottom: 0;
   left: 0;
   font-size: 14px;
-  color: var(--purple);
+  color: #777777;
 }
 
 .task-list {
