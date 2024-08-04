@@ -121,6 +121,17 @@ main {
 	margin: 0 auto;
 }
 
+footer {
+  text-align: center;
+  padding: 10px 0;
+  letter-spacing: 2px;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  font-size: 14px;
+  color: var(--sec-text-color);
+}
+
 .task-list {
 	padding: 1rem;
 }
